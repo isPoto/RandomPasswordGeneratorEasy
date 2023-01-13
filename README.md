@@ -9,6 +9,9 @@ RandomPasswordGeneratorEasy doesn't have any parameter settings and functions th
 
 It's simple!
 
+![image](https://user-images.githubusercontent.com/59009389/212431650-8fa5e976-d6bb-4fe9-bf13-9d4be97d729c.png)
+
+
 Poto knows you just want a password, so he developed RandomPasswordGeneratorEasy for you
 
 Simple, but secure. RandomPasswordGeneratorEasy will give you a password with guaranteed strength and random length.
@@ -26,6 +29,8 @@ Right-click on the window displayed at the top to copy your password
 Double click to exit RandomPasswordGeneratorEasy
 
 Community: Mouse over the close button will show two buttons, Poto Channel & Poto Group, welcome to join the community
+![image](https://user-images.githubusercontent.com/59009389/212431708-dfe7353b-d204-482e-9f5d-91b86c333c70.png)
+
 
 <a href="https://t.me/PotoChannel" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/212431345-fefeee9e-bc49-4d79-b6f8-5e969f8fcc9d.png" alt="Join Poto Channel" title="Join Poto Channel"></a>
 
