@@ -35,6 +35,8 @@ Community: Mouse over the close button will show two buttons, Poto Channel & Pot
 
 ![image](https://user-images.githubusercontent.com/59009389/212431708-dfe7353b-d204-482e-9f5d-91b86c333c70.png)
 
+[FAQ](https://ispoto.github.io/FAQ/)
+
 
 <a href="https://t.me/PotoChannel" target="blank"><img border="0" src="https://user-images.githubusercontent.com/59009389/212431345-fefeee9e-bc49-4d79-b6f8-5e969f8fcc9d.png" alt="Join Poto Channel" title="Join Poto Channel"></a>
 
