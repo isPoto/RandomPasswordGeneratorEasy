@@ -32,6 +32,7 @@ Double click to exit RandomPasswordGeneratorEasy
 
 
 Community: Mouse over the close button will show two buttons, Poto Channel & Poto Group, welcome to join the community
+
 ![image](https://user-images.githubusercontent.com/59009389/212431708-dfe7353b-d204-482e-9f5d-91b86c333c70.png)
 
 
